@@ -18,6 +18,6 @@
 
   "url": "https://github.com/Boifuba/instant-counter",
   "manifest": "https://raw.githubusercontent.com/Boifuba/instant-counter/refs/heads/main/module.json",
-  "download": "https://github.com/Boifuba/instant-counter/releases/download/0.0.3/gurps-counter.zip"
+  "download": "https://github.com/Boifuba/instant-counter/releases/download/0.0.3/instant-counter.zip"
 
 }
