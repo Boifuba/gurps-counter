@@ -3,7 +3,7 @@
  * Automatically decreases numbered status effects on tokens each combat round
  * Manages Luck effect with timed reactivation
  */
-console.log("GURPS Counter | Initializing module");
+
 
 // Initialize the counter system when the module loads
 Hooks.once('init', function() {
