@@ -1,8 +1,8 @@
 {
   "id": "gurps-counter",
-  "title": "GURPS Counter",
+  "title": "Instant Counter",
   "description": "Automatically decreases numbered status effects on tokens each combat round for GURPS system",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -17,7 +17,7 @@
   ],
 
   "url": "https://github.com/Boifuba/gurps-counter",
-  "manifest": "https://github.com/Boifuba/gurps-counter/releases/download/download/module.json",
-  "download": "https://github.com/Boifuba/gurps-counter/releases/download/0.0.2/gurps-counter.zip"
+  "manifest": "https://raw.githubusercontent.com/Boifuba/gurps-counter/refs/heads/main/module.json",
+  "download": "https://github.com/Boifuba/gurps-counter/releases/download/0.0.3/gurps-counter.zip"
 
 }
